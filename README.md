@@ -2,6 +2,7 @@ Titanium module for AdBuddiz (Android)
 
 Binary inside android/dist/ folder
 
+![ScreenShot](https://raw.github.com/m1ga/tiadbuddiz/master/android/example/screen.png)
 
 Example:
 
