@@ -1,11 +1,10 @@
 var ads = require("miga.adbuddiz");
 
 ads.create({
-    key:"YOUR_KEY"
+    key:"YOUR_KEY",
+    testMode:true,  // enable test mode
+    showLog:true    // enable logs
 });
-
-// enable test mode
-ads.setTestMode();
 
 function onClick(e){
     // show ad
