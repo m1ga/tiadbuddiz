@@ -5,7 +5,7 @@
 version: 1.0.0
 apiversion: 2
 architectures: armeabi armeabi-v7a x86
-description: adbuddiz
+description: Titanium module for AdBuddiz ad network. Adding ads with just three lines
 author: Michael Gangolf
 license: Apache License, Version 2.0
 copyright: Copyright (c) 2015 Michael Gangolf
