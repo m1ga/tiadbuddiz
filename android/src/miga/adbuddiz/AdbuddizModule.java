@@ -45,6 +45,33 @@ public class AdbuddizModule extends KrollModule {
 
 
 	@Kroll.method
+	public void setPublisherKey(String str){
+		AdBuddiz.setPublisherKey(str);
+	}
+
+
+	@Kroll.method
+	public void setTestModeActive(){
+		AdBuddiz.setTestModeActive();
+	}
+
+	@Kroll.method
+	public boolean isReadyToShowAd(){
+		return AdBuddiz.isReadyToShowAd(appContext.getCurrentActivity());
+	}
+
+	@Kroll.method
+	public void showLog(){
+		AdBuddiz.setLogLevel(AdBuddizLogLevel.Info);
+	}
+
+	@Kroll.method
+	public void cacheAds(){
+		AdBuddiz.cacheAds(appContext.getCurrentActivity());
+	}
+
+
+	@Kroll.method
 	public void showAd(){
 		AdBuddiz.showAd(appContext.getCurrentActivity());
 	}
