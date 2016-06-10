@@ -1,0 +1,2 @@
+"/Users/Astrovic/Dati/Applicazioni/tiadbuddiz/android/build/generated/java/miga/adbuddiz/AdbuddizBootstrap.java"
+"/Users/Astrovic/Dati/Applicazioni/tiadbuddiz/android/src/miga/adbuddiz/AdbuddizModule.java"

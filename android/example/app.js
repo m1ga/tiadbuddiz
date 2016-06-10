@@ -1,3 +1,12 @@
+var w = Ti.UI.createWindow();
+var btn_open = Ti.UI.createButton({
+	title : "show ad",
+	width : "120dp",
+	height : "60dp"
+});
+w.add(btn_open);
+
+
 var ads = require("miga.adbuddiz");
 
 ads.create({
@@ -11,5 +20,5 @@ function onClick(e){
     ads.showAd();
 }
 
-$.btn_open.addEventListener("click",onClick);
-$.index.open();
+btn_open.addEventListener("click",onClick);
+w.open();
