@@ -6,7 +6,24 @@ Binary inside android/dist/ folder
 
 Example:
 
+
+
+```javascript
+var ads = require("miga.adbuddiz");
+ads.setPublisherKey("YOUR_KEY");    // set key
+ads.setTestModeActive();            // optional - set test mode
+ads.showLog();                      // optional - show log
+ads.cacheAds();                     // start
+ads.showAd();                       // show ad
+
+if (ads.isReadyToShowAd()){         // optional - ready to show ad
+    //
+}
 ```
+
+old syntax (still supported):
+
+```javascript
 var ads = require("miga.adbuddiz");
 
 ads.create({
@@ -15,12 +32,6 @@ ads.create({
     showLog:true    // enable logs
 });
 
-function onClick(e){
-    // show ad
-    ads.showAd();
-}
-
-$.btn_open.addEventListener("click",onClick);
-$.index.open();
+ads.showAd();     // show ad
 
 ```
