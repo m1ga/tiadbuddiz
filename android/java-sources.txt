@@ -1,2 +1,6 @@
-"/Users/Astrovic/Dati/Applicazioni/tiadbuddiz/android/build/generated/java/miga/adbuddiz/AdbuddizBootstrap.java"
 "/Users/Astrovic/Dati/Applicazioni/tiadbuddiz/android/src/miga/adbuddiz/AdbuddizModule.java"
+"/Users/Astrovic/Dati/Applicazioni/tiadbuddiz/android/build/generated/java/miga/adbuddiz/AdbuddizBootstrap.java"
+"/Users/Astrovic/Dati/Applicazioni/tiadbuddiz/android/build/generated/r/android/support/v7/appcompat/R.java"
+"/Users/Astrovic/Dati/Applicazioni/tiadbuddiz/android/build/generated/r/android/support/v7/cardview/R.java"
+"/Users/Astrovic/Dati/Applicazioni/tiadbuddiz/android/build/generated/r/miga/adbuddiz/R.java"
+"/Users/Astrovic/Dati/Applicazioni/tiadbuddiz/android/build/generated/r/ti/modules/titanium/ui/R.java"
