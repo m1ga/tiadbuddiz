@@ -1,0 +1,6 @@
+"/home/miga/dev/tiadbuddiz/android/src/miga/adbuddiz/AdbuddizModule.java"
+"/home/miga/dev/tiadbuddiz/android/build/generated/java/miga/adbuddiz/AdbuddizBootstrap.java"
+"/home/miga/dev/tiadbuddiz/android/build/generated/r/android/support/v7/appcompat/R.java"
+"/home/miga/dev/tiadbuddiz/android/build/generated/r/android/support/v7/cardview/R.java"
+"/home/miga/dev/tiadbuddiz/android/build/generated/r/miga/adbuddiz/R.java"
+"/home/miga/dev/tiadbuddiz/android/build/generated/r/ti/modules/titanium/ui/R.java"
